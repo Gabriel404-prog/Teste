@@ -113,3 +113,5 @@ function alterarTexto(tag, texto) {
 // Código ------
 
 alterarTexto('h2', `A tabuada de ${numero} é:<br>${resultadoTexto}`);
+
+// Inserção de comentário teste
